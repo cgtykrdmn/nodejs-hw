@@ -57,7 +57,7 @@ showPosts();
 
 </details>
 
-### ODEV-2 - Node.JS Daire Moduler Dosyasi
+### ODEV-3 - Node.JS Daire Moduler Dosyasi
 
 <details>
 <summary>Click to show CODE 1</summary>
