@@ -15,7 +15,7 @@ function callArea(diameter){
 }
 callArea(givenDia);
 </details>
-
+<br />
 
 ### ODEV-2 - Node.JS Post Siralama ve Ekleme
 
@@ -56,7 +56,7 @@ async function showPosts() {
 showPosts();
 
 </details>
-
+<br />
 ### ODEV-3 - Node.JS Daire Moduler Dosyasi
 
 <details>
@@ -77,7 +77,7 @@ module.exports = {
 }
 
 </details>
-<br />
+
 <details>
 <summary>Click to show CODE 2</summary>
 
