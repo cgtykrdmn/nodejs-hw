@@ -56,3 +56,37 @@ async function showPosts() {
 showPosts();
 
 </details>
+
+### ODEV-2 - Node.JS Daire Moduler Dosyasi
+
+<details>
+<summary>Click to show CODE 1</summary>
+  function circleArea(pi, r) {
+    let area = pi*r*r;
+    console.log("Circle Area: " + area);
+}
+
+function circleCircumference(pi, r){
+    let circumference = 2*pi*r;
+    console.log("Circle Circumference: " + circumference);
+}
+
+module.exports = {
+    circleArea,
+    circleCircumference
+}
+
+</details>
+<br />
+<details>
+<summary>Click to show CODE 2</summary>
+
+  const { circleArea, circleCircumference  } = require('./circle.js');
+
+const pi = Math.PI;
+
+circleArea(pi,2);
+circleCircumference(pi,2);
+
+
+</details>
