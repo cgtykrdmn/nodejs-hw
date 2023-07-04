@@ -182,9 +182,13 @@ server.listen(port, ()=> {
 
 });
 
+
+</details>
+
 </br>
 
-### ODEV-6 - Node.JS KENDI WEB SUNUCUMUZU YAZMAK  Koa.JS
+
+### ODEV-6 - Node.JS KENDI WEB SUNUCUMUZU YAZMAK - Koa.JS
 
 <details>
 
